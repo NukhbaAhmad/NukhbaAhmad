@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **react.js, three.js, Node.js ,**
+- 💬 Ask me about **react.js, three.js, Node.js , Three.js , GSAP**
 
 - 📫 How to reach me **nukhbaahmadali@gmail.com**
 
