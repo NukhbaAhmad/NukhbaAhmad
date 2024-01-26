@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nukhba Mehboob</h1>
-<h3 align="center">A passionate MERN STACK developer</h3>
+<h3 align="center">Web developer adept in MERN stack and Three.js, crafting digital wonders with code.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nukhbaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="nukhbaahmad" /> </p>
